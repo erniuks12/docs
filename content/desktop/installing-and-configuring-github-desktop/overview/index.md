@@ -11,5 +11,5 @@ children:
   - /supported-operating-systems
   - /keyboard-shortcuts
   - /launching-github-desktop-from-the-command-line
----
+---https://github-enterprise.s3.amazonaws.com/hotpatch/3.6/github-enterprise-3.6.2.hpkg
 
